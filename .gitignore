@@ -6,4 +6,5 @@
 .DS_Store
 .Renviron
 # Local IPUMS input files are not uploaded.
-data/raw/
+data/raw/*
+!data/raw/README.md
